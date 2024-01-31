@@ -143,5 +143,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 ---------------
 ## Authors 🧑🏿‍🤝‍🧑🏿
-* [Marie Reine Bienaimee](https://github.com/mbienaimee)
+* [Marie Bienaimee](https://github.com/mbienaimee)
 * [Favour Akinwade](https://github.com/FavourAkinwande)
